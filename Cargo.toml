@@ -1,7 +1,14 @@
 [package]
 name = "zalgo-text"
+description = "A command line tool for generating zalgo text"
+homepage = "https://github.com/tizee/zalgo-text"
+repository = "https://github.com/tizee/zalgo-text"
+documentation = "https://docs.rs/zalgo-text"
+readme = "README.md"
+license = "MIT"
 version = "0.1.0"
 edition = "2021"
+keyword = ["cli", "zalgo text", "glitch text", "unicode"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
